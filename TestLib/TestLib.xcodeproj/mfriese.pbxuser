@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = D2AAC0620554660B00DB518D /* TestLib */;
+		addToTargets = (
+			D2AAC0620554660B00DB518D /* TestLib */,
+		);
+		codeSenseManager = 89DE9CC50C33E62F007ADF49 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					370,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					117,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 204816180;
+			PBXWorkspaceStateSaveDate = 204816180;
+		};
+		perUserProjectItems = {
+			894ABD450C35450600BEBCB4 /* PBXTextBookmark */ = 894ABD450C35450600BEBCB4 /* PBXTextBookmark */;
+			894ABD460C35450600BEBCB4 /* PBXTextBookmark */ = 894ABD460C35450600BEBCB4 /* PBXTextBookmark */;
+			894ABD470C35450600BEBCB4 /* PBXTextBookmark */ = 894ABD470C35450600BEBCB4 /* PBXTextBookmark */;
+			894ABD490C35450600BEBCB4 /* PBXTextBookmark */ = 894ABD490C35450600BEBCB4 /* PBXTextBookmark */;
+			894ABD4A0C35450600BEBCB4 /* PBXTextBookmark */ = 894ABD4A0C35450600BEBCB4 /* PBXTextBookmark */;
+			894ABD540C354E1A00BEBCB4 /* PBXTextBookmark */ = 894ABD540C354E1A00BEBCB4 /* PBXTextBookmark */;
+			89DE9D930C3436EF007ADF49 /* PBXTextBookmark */ = 89DE9D930C3436EF007ADF49 /* PBXTextBookmark */;
+			89DE9D970C3436EF007ADF49 /* PBXTextBookmark */ = 89DE9D970C3436EF007ADF49 /* PBXTextBookmark */;
+			89DE9D980C3436EF007ADF49 /* PBXTextBookmark */ = 89DE9D980C3436EF007ADF49 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 89DE9CC40C33E62F007ADF49 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	894ABD450C35450600BEBCB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89DE9D960C3436EF007ADF49 /* QGLViewerWidget.hh */;
+		name = "QGLViewerWidget.hh: 40";
+		rLen = 0;
+		rLoc = 2424;
+		rType = 0;
+		vrLen = 1123;
+		vrLoc = 1824;
+	};
+	894ABD460C35450600BEBCB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89DE9CC60C33E63B007ADF49 /* TestLib.h */;
+		name = "TestLib.h: 7";
+		rLen = 0;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 212;
+		vrLoc = 0;
+	};
+	894ABD470C35450600BEBCB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 894ABD480C35450600BEBCB4 /* iostream */;
+		rLen = 0;
+		rLoc = 2147483647;
+		rType = 0;
+	};
+	894ABD480C35450600BEBCB4 /* iostream */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = iostream;
+		path = "/Developer/SDKs/MacOSX10.4u.sdk/usr/include/c++/4.0.0/iostream";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {562, 1280}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {562, 340}}";
+		};
+	};
+	894ABD490C35450600BEBCB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89DE9D960C3436EF007ADF49 /* QGLViewerWidget.hh */;
+		name = "QGLViewerWidget.hh: 40";
+		rLen = 0;
+		rLoc = 2424;
+		rType = 0;
+		vrLen = 1123;
+		vrLoc = 1824;
+	};
+	894ABD4A0C35450600BEBCB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89DE9CC60C33E63B007ADF49 /* TestLib.h */;
+		name = "TestLib.h: 7";
+		rLen = 0;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 212;
+		vrLoc = 0;
+	};
+	894ABD540C354E1A00BEBCB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 894ABD550C354E1A00BEBCB4 /* iostream */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1038;
+		vrLoc = 0;
+	};
+	894ABD550C354E1A00BEBCB4 /* iostream */ = {
+		isa = PBXFileReference;
+		name = iostream;
+		path = "/Developer/SDKs/MacOSX10.4u.sdk/usr/include/c++/4.0.0/iostream";
+		sourceTree = "<absolute>";
+	};
+	89DE9CC40C33E62F007ADF49 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	89DE9CC50C33E62F007ADF49 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	89DE9CC60C33E63B007ADF49 /* TestLib.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {562, 340}}";
+			sepNavSelRange = "{135, 0}";
+			sepNavVisRect = "{{0, 0}, {562, 340}}";
+		};
+	};
+	89DE9CC70C33E63B007ADF49 /* TestLib.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 484}}";
+			sepNavSelRange = "{171, 0}";
+			sepNavVisRect = "{{0, 0}, {775, 484}}";
+			sepNavWindowFrame = "{{38, 389}, {820, 613}}";
+		};
+	};
+	89DE9D930C3436EF007ADF49 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89DE9D940C3436EF007ADF49 /* MeshViewerWidgetT.hh */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 2199;
+	};
+	89DE9D940C3436EF007ADF49 /* MeshViewerWidgetT.hh */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = MeshViewerWidgetT.hh;
+		path = /Users/mfriese/Desktop/OpenMesh/Apps/QtViewer/MeshViewerWidgetT.hh;
+		sourceTree = "<absolute>";
+	};
+	89DE9D960C3436EF007ADF49 /* QGLViewerWidget.hh */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = QGLViewerWidget.hh;
+		path = /Users/mfriese/Desktop/OpenMesh/Apps/QtViewer/QGLViewerWidget.hh;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 2880}}";
+			sepNavSelRange = "{2424, 0}";
+			sepNavVisRect = "{{0, 368}, {649, 705}}";
+		};
+	};
+	89DE9D970C3436EF007ADF49 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89DE9CC60C33E63B007ADF49 /* TestLib.h */;
+		name = "TestLib.h: 7";
+		rLen = 0;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 212;
+		vrLoc = 0;
+	};
+	89DE9D980C3436EF007ADF49 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89DE9D990C3436EF007ADF49 /* MeshViewerWidgetT.hh */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 2199;
+	};
+	89DE9D990C3436EF007ADF49 /* MeshViewerWidgetT.hh */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = MeshViewerWidgetT.hh;
+		path = /Users/mfriese/Desktop/OpenMesh/Apps/QtViewer/MeshViewerWidgetT.hh;
+		sourceTree = "<absolute>";
+	};
+	D2AAC0620554660B00DB518D /* TestLib */ = {
+		activeExec = 0;
+	};
+}
